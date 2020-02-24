@@ -5,27 +5,27 @@ Notes App an an application in which allows us to register into  the app. As the
 
 ### Dependencies and Installation
  ## FRONT-END
-   *axios npm install --save axios
-   *react npm create-react-app
-   *react-router-dom npm install --save react-router-dom
-   *redux npm i redux
-   *react-redux npm i react-redux
-   *react-bootstrap npm i react-bootstrap
-   *reactstrap npm i reactstrap
-   *redux-thunk npm install redux-thunk
-   *sweetalert2 npm install --save sweetalert2
-   *validator npm install validator
+   1.axios npm install --save axios
+   2. react npm create-react-app
+   3. react-router-dom npm install --save react-router-dom
+   4. redux npm i redux
+   5. react-redux npm i react-redux
+   6. react-bootstrap npm i react-bootstrap
+   7. reactstrap npm i reactstrap
+   8. redux-thunk npm install redux-thunk
+   9. sweetalert2 npm install --save sweetalert2
+   10. validator npm install validator
    
   ## BACK-END
-           1. cors npm i cors
-           2. express npm i express
-           3. mongoose npm mongoose
-           4. nodemon npm i nodemon
-           7. bcryptjs npm i bcryptjs
-           8. jsonwebtoken npm i jsonwebtoken
-           8. validator npm i validator
-           9. lodash npm i lodash
-           10.mongoose npm i mongoose
+   1. cors npm i cors
+   2. express npm i express
+   3. mongoose npm mongoose
+   4. nodemon npm i nodemon
+   5. bcryptjs npm i bcryptjs
+   6. jsonwebtoken npm i jsonwebtoken
+   7. validator npm i validator
+   8. lodash npm i lodash
+   9. mongoose npm i mongoose
    
   # Usage
       
