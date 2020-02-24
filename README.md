@@ -37,15 +37,13 @@ Notes App an an application in which allows us to register into  the app. As the
    *Edit a Note-Change the Note title, Description and category.<br/>
    *Delete a Note-Delete the Note by remove button<br/>
  
-#Screenshorts
-![image]
-![Screenshot (122)](https://user-images.githubusercontent.com/60342034/75164996-b3db2700-5747-11ea-8fbf-c6ac63f2b86e.png)
-![Screenshot (123)](https://user-images.githubusercontent.com/60342034/75165001-b63d8100-5747-11ea-8d0e-b80da75e5d4c.png)
-![Screenshot (117)](https://user-images.githubusercontent.com/60342034/75165003-b6d61780-5747-11ea-8121-143144627131.png)
-![Screenshot (118)](https://user-images.githubusercontent.com/60342034/75165016-bb9acb80-5747-11ea-9cc8-bcab0dbb6603.png)
-![Screenshot (119)](https://user-images.githubusercontent.com/60342034/75165020-bccbf880-5747-11ea-8402-c8febe1de43a.png)
-![Screenshot (120)](https://user-images.githubusercontent.com/60342034/75165023-bdfd2580-5747-11ea-84be-20c1d4e1688e.png)
-![Screenshot (121)](https://user-images.githubusercontent.com/60342034/75165025-bf2e5280-5747-11ea-84da-644980bbcf2d.png)
+# Screenshots
+![Screenshot (117)](https://user-images.githubusercontent.com/60342034/75165519-8642ad80-5748-11ea-884c-3c04c6b6c907.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/60342034/75165538-8e025200-5748-11ea-9bdf-bc8269d8b253.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/60342034/75165582-9fe3f500-5748-11ea-9fb2-b8abfab15c94.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/60342034/75165587-a07c8b80-5748-11ea-83d9-ba7616b521f1.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/60342034/75165588-a1152200-5748-11ea-92a1-237030ffb509.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/60342034/75165571-9d819b00-5748-11ea-91b4-3f09912c3604.png)
   
 # Author 
 Nitish Kumar
