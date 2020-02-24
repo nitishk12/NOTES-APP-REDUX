@@ -36,6 +36,16 @@ Notes App an an application in which allows us to register into  the app. As the
    *Add a note-Add a new Note, with the Title, Description and Category<br/>
    *Edit a Note-Change the Note title, Description and category.<br/>
    *Delete a Note-Delete the Note by remove button<br/>
-          
+ 
+#Screenshorts
+![image]
+![Screenshot (122)](https://user-images.githubusercontent.com/60342034/75164996-b3db2700-5747-11ea-8fbf-c6ac63f2b86e.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/60342034/75165001-b63d8100-5747-11ea-8d0e-b80da75e5d4c.png)
+![Screenshot (117)](https://user-images.githubusercontent.com/60342034/75165003-b6d61780-5747-11ea-8121-143144627131.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/60342034/75165016-bb9acb80-5747-11ea-9cc8-bcab0dbb6603.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/60342034/75165020-bccbf880-5747-11ea-8402-c8febe1de43a.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/60342034/75165023-bdfd2580-5747-11ea-84be-20c1d4e1688e.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/60342034/75165025-bf2e5280-5747-11ea-84da-644980bbcf2d.png)
+  
 # Author 
 Nitish Kumar
