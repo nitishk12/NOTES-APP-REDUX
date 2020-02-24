@@ -1,6 +1,6 @@
 # NOTES-APP-REDUX
 
-##OverView
+## OverView
 Notes App an an application in which allows us to register into  the app. As the user Registers , then  he can  create a note along with  the  category  to which  this  note belongs. He can view the  note details and also delete the note.The above project is done along with user authentication.
 
 ### Dependencies and Installation
@@ -29,15 +29,15 @@ Notes App an an application in which allows us to register into  the app. As the
    
   # Usage
       
-      ###Create, Edit and Delete a note
-        *Notes
-          View the list of all the notes, to get more information click on viewdetail button
-        *Add a note
-          Add a new Note, with the Title, Description and Category
-        *Edit a Note
-          Change the Note title, Description and category.
-        *Delete a Note
-          Delete the Note
+  ### Create, Edit and Delete a note
+  *Notes
+     View the list of all the notes, to get more information click on viewdetail button
+  *Add a note
+     Add a new Note, with the Title, Description and Category
+  *Edit a Note
+     Change the Note title, Description and category.
+  *Delete a Note
+     Delete the Note
           
-  #Author 
+  # Author 
   Nitish Kumar
