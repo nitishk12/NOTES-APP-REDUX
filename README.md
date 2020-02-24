@@ -5,35 +5,39 @@ Notes App an an application in which allows us to register into  the app. As the
 
 ### Dependencies and Installation
 ## BACK-END
-   1. cors npm i cors
-   2. express npm i express
-   3. mongoose npm mongoose
-   4. nodemon npm i nodemon
-   5. bcryptjs npm i bcryptjs
-   6. jsonwebtoken npm i jsonwebtoken
-   7. validator npm i validator
-   8. lodash npm i lodash
-   9. mongoose npm i mongoose
+   1. cors npm i cors<br/>
+   2. express npm i express<br/>
+   3. mongoose npm mongoose<br/>
+   4. nodemon npm i nodemon<br/>
+   5. bcryptjs npm i bcryptjs<br/>
+   6. jsonwebtoken npm i jsonwebtoken<br/>
+   7. validator npm i validator<br/>
+   8. lodash npm i lodash<br/>
+   9. mongoose npm i mongoose<br/>
+   
+   
  ## FRONT-END
-   1.axios npm install --save axios
-   2. react npm create-react-app
-   3. react-router-dom npm install --save react-router-dom
-   4. redux npm i redux
-   5. react-redux npm i react-redux
-   6. react-bootstrap npm i react-bootstrap
-   7. reactstrap npm i reactstrap
-   8. redux-thunk npm install redux-thunk
-   9. sweetalert2 npm install --save sweetalert2
-   10. validator npm install validator  
+   1.axios npm install --save axios<br/>
+   2. react npm create-react-app<br/>
+   3. react-router-dom npm install --save react-router-dom<br/>
+   4. redux npm i redux<br/>
+   5. react-redux npm i react-redux<br/>
+   6. react-bootstrap npm i react-bootstrap<br/>
+   7. reactstrap npm i reactstrap<br/>
+   8. redux-thunk npm install redux-thunk<br/>
+   9. sweetalert2 npm install --save sweetalert2<br/>
+   10. validator npm install validator<br/>
+   
+   
  # Usage
  ### Create, Edit and Delete a note
  *Notes
-  *View the list of all the notes, to get more information click on viewdetail button
+  *View the list of all the notes, to get more information click on viewdetail button<br/>
  *Add a note
-  *Add a new Note, with the Title, Description and Category
+  *Add a new Note, with the Title, Description and Category<br/>
  *Edit a Note
-  *Change the Note title, Description and category.
- *Delete a Note
+  *Change the Note title, Description and category.<br/>
+ *Delete a Note<br/>
   *Delete the Note
           
 # Author 
