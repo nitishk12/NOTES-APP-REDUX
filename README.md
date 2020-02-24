@@ -4,19 +4,19 @@
 Notes App an an application in which allows us to register into  the app. As the user Registers , then  he can  create a note along with  the  category  to which  this  note belongs. He can view the  note details and also delete the note.The above project is done along with user authentication.
 
 ### Dependencies and Installation
- *Front End
-           *axios npm install --save axios
-           *react npm create-react-app
-           *react-router-dom npm install --save react-router-dom
-           *redux npm i redux
-           *react-redux npm i react-redux
-           *react-bootstrap npm i react-bootstrap
-           *reactstrap npm i reactstrap
-           *redux-thunk npm install redux-thunk
-           *sweetalert2 npm install --save sweetalert2
-           *validator npm install validator
+ ## FRONT-END
+   *axios npm install --save axios
+   *react npm create-react-app
+   *react-router-dom npm install --save react-router-dom
+   *redux npm i redux
+   *react-redux npm i react-redux
+   *react-bootstrap npm i react-bootstrap
+   *reactstrap npm i reactstrap
+   *redux-thunk npm install redux-thunk
+   *sweetalert2 npm install --save sweetalert2
+   *validator npm install validator
    
-  *Back End
+  ## BACK-END
            1. cors npm i cors
            2. express npm i express
            3. mongoose npm mongoose
