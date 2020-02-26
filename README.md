@@ -32,10 +32,10 @@ Notes App an an application in which allows us to register into  the app. As the
  # Usage
  
  ### Create, Edit and Delete a note<br/>
-   *Notes-View the list of all the notes, to get more information click on viewdetail button<br/>
-   *Add a note-Add a new Note, with the Title, Description and Category<br/>
-   *Edit a Note-Change the Note title, Description and category.<br/>
-   *Delete a Note-Delete the Note by remove button<br/>
+   * Notes-View the list of all the notes, to get more information click on viewdetail button<br/>
+   * Add a note-Add a new Note, with the Title, Description and Category<br/>
+   * Edit a Note-Change the Note title, Description and category.<br/>
+   * Delete a Note-Delete the Note by remove button<br/>
   
 # Author 
 Nitish Kumar
